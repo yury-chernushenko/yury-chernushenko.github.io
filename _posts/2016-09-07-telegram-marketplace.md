@@ -7,7 +7,7 @@ categories: software
 
 This is a demo for the chat bot that allow to sell and buy things in messenger. Chatbot is written in golang with decoupling between admin, payment and client facing modules.  
 
-[Demo]({{ site.url }}/assets/demo.gif)
+<div style="text-align:center;"><img src="/assets/demo.gif"></div>
 
 **Features**:
 
