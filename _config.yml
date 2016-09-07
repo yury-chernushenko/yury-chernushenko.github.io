@@ -10,7 +10,7 @@ title: Yury Chernushenko blog
 email: y.chernushenko@gmail.com
 description: Log level equals Pet projects
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://yury-chernushenko.github.io/" # the base hostname & protocol for your site
 twitter_username: y_chernushenko
 github_username:  yury-chernushenko
 
