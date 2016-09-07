@@ -8,7 +8,7 @@
 # Site settings
 title: Yury Chernushenko blog
 email: y.chernushenko@gmail.com
-description: > logLevel := Pet Projects
+description: logLevel := Pet Projects
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: y_chernushenko
