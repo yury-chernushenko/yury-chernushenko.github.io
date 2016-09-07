@@ -14,17 +14,16 @@ This is a demo for the chat bot that allow to sell and buy things in messenger. 
 </div>
 
 <div class="text-col text-col-2">
-  **Features**:
+  <b>Features<b>:
 
-  1. Easy content publishing for sellers  
-  2. Automation through AI  
-  3. Payments processing  
-  4. Recurrent orders  
-  5. Location based search  
-  6. Integration with customer support and analytics backend  
+  <ol>
+    <li> Easy content publishing for sellers </li>
+    <li> Automation through AI </li>
+    <li> Payments processing </li>
+    <li> Recurrent orders </li>
+    <li> Location based search </li>
+    <li> Integration with customer support and analytics backend </li>
+  </ol>
 
-  Check out the video [here][demo-video].  
+  Check out the video <a href="https://youtu.be/DSVH7_8Dewc">here</a>.  
 </div>
-
-
-[demo-video]: https://youtu.be/DSVH7_8Dewc
