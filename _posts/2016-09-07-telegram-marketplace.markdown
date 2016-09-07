@@ -21,4 +21,3 @@ This is a demo for the chat bot that allow to sell and buy things in messenger. 
 Check out the video [here][demo-video].  
 
 [demo-video]: https://youtu.be/DSVH7_8Dewc
-[repo]:
