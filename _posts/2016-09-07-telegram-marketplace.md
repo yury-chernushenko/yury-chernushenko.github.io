@@ -10,7 +10,7 @@ This is a demo for the chat bot that allow to sell and buy things in messenger. 
 <br>
 
 <div class="text-col text-col-1">
-  <div style="text-align:left;"><img src="/assets/demo.gif"></div>
+  <div style="text-align:left;"><img src="/assets/2016-09-07-demo.gif"></div>
 </div>
 
 <div class="text-col text-col-2">
