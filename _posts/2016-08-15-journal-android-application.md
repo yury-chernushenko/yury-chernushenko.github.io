@@ -31,7 +31,7 @@ This is a demo of the student's project where I was a Product Owner. This is an 
   <br>
 </div>
 
-<div align="center">
+<div class="text-full-width">
   A lot of product work for this project was done around this documents:  
 
   <img src="/assets/2016-08-15-wireframe.png">
