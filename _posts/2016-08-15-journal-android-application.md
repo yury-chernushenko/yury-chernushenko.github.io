@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Journal - android application for parents"
+title:  "Journal - Android application for parents"
 date:   2016-08-15 14:19:20 +0200
 categories: software
 ---
@@ -30,7 +30,9 @@ This is a demo of the student's project where I was a Product Owner. This is an 
 
 <br>
 
-A lot of product work for this project was done around this documents:  
+<div align="center">
+  A lot of product work for this project was done around this documents:  
+</div>
 
 <div align="center">
   <img src="/assets/2016-08-15-wireframe.png">
