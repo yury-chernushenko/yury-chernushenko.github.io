@@ -153,6 +153,7 @@
 }
 
 .text-col-2 {
+    margin-left: $spacing-unit;
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
 }
