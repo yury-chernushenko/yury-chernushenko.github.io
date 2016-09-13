@@ -35,10 +35,10 @@ categories: software
 <!-- /Yandex.Metrika counter -->
 
 Bots are really cool for some things. This case was for the small city municipality in Russia, bot was working for Telegram and had these features:  
-* Schedule of the bus (most used feature)  
-* Announcements from the municipality (it was before channels in Telegram)  
-* Facilities open hours and contact details
-* Contact with an concierge (integration with Zendesk ticketing)  
+- Schedule of the bus (most used feature)  
+- Announcements from the municipality (it was before channels in Telegram)  
+- Facilities open hours and contact details
+- Contact with an concierge (integration with Zendesk ticketing)  
 
 <div class="text-col text-col-1" style="text-align:left;">
     Telegram user's interface:
