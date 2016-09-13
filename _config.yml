@@ -16,5 +16,3 @@ github_username:  yury-chernushenko
 
 # Build settings
 markdown: kramdown
-
-gems: [youtube]
