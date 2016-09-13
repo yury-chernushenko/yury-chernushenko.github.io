@@ -1,19 +1,28 @@
-module Jekyll
-  class ResponsiveYouTubeTag < Liquid::Tag
-    def initialize(tag_name, markup, options)
-      super
-      @video_id = markup.strip
-    end
+class YouTube < Liquid::Tag
+  Syntax = /^\s*([^\s]+)(\s+(\d+)\s+(\d+)\s*)?/
 
-    def render(context)
-      %Q[
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/#{@video_id}" frameborder="0" allowfullscreen>
-  </iframe>
-</div>
-      ]
+  def initialize(tagName, markup, tokens)
+    super
+
+    if markup =~ Syntax then
+      @id = $1
+
+      if $2.nil? then
+          @width = 560
+          @height = 420
+      else
+          @width = $2.to_i
+          @height = $3.to_i
+      end
+    else
+      raise "No YouTube ID provided in the \"youtube\" tag"
     end
   end
-end
 
-Liquid::Template.register_tag("youtube", Jekyll::ResponsiveYouTubeTag)
+  def render(context)
+    # "<iframe width=\"#{@width}\" height=\"#{@height}\" src=\"http://www.youtube.com/embed/#{@id}\" frameborder=\"0\"allowfullscreen></iframe>"
+    "<iframe width=\"#{@width}\" height=\"#{@height}\" src=\"http://www.youtube.com/embed/#{@id}?color=white&theme=light\"></iframe>"
+  end
+
+  Liquid::Template.register_tag "youtube", self
+end
