@@ -48,5 +48,4 @@ Step one was done based on <a href="https://gist.github.com/baraldilorenzo/07d78
 Step two was not that easy to implement while the hackathon. There was some free balance for the google cloud platform, but is was not that easy to configure Kubernetes in several hours we had and this cloud is actually not that efficient for this kind of tasks(no GPU options available out of the box).  
 
 Final gif looked like this:  
-
 <img src="/assets/2016-08-05-final-video.gif">
