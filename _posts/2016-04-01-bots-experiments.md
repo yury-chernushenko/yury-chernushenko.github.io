@@ -48,16 +48,21 @@ Bots are really cool for some things. This case was for the small city municipal
   Back end was done on Python(Flask) and information was stored at Facebook Parse. Interface was buttons based:  
 </div>
 
-<div class="text-col text-col-1">
-  <div style="text-align:left;">Also operator on in the back of this concierge service had and interface to change standard replies and broadcast messages to subscribers:</div>
+
+<div class="text-full-width">
+  <div class="text-col text-col-1">
+    <div style="text-align:right;">Also operator on in the back of this concierge service had and interface to change standard replies and broadcast messages to subscribers:</div>
+  </div>
+
+  <div class="text-col text-col-2">
+    <img src="/assets/2016-04-01-operator.jpg">  
+  </div>
 </div>
 
-<div class="text-col text-col-2">
-  <img src="/assets/2016-04-01-operator.jpg">  
+<div class="text-full-width">
+  Users also might use text commands like "/bus". And ask questions in free form.
+
+  Interesting extension would be integration with geolocation for tracking buses and payments integration.  
+
+  One of the biggest benefit that came out of these project where reduction of concierge service with standard questions that users where easily able to find by themselves now.  
 </div>
-
-Users also might use text commands like "/bus". And ask questions in free form.
-
-Interesting extension would be integration with geolocation for tracking buses and payments integration.  
-
-One of the biggest benefit that came out of these project where reduction of concierge service with standard questions that users where easily able to find by themselves now.  
