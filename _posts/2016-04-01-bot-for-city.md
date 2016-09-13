@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chat bots experiments"
+title:  "Chat bot for municipality"
 date:   2016-04-01 14:19:20 +0200
 categories: software
 ---
@@ -48,7 +48,7 @@ Bots are really cool for some things. This case was for the small city municipal
 </div>
 
 <div class="text-col text-col-2" style="text-align:left;">
-    Operator's web interface :
+    Operator's web interface:
 
     <img src="/assets/2016-04-01-operator.jpg">    
 
