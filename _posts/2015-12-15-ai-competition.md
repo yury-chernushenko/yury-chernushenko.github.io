@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Autonomous cars competition"
-date:   2016-04-01 14:19:20 +0200
+date:   2015-12-15 14:19:20 +0200
 categories: software
 ---
 
