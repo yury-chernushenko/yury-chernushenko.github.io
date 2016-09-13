@@ -39,7 +39,7 @@ There was a hackathon this weekend about <a href="http://kubernetes.io/">Kuberne
 The idea was to have next steps:  
 1. Split video into several frames with some rate, because processing of all frames would take too long.  
 2. Process each frame on separate Kubernetes container  
-3. Gather result and create gif   
+3. Gather result and create gif  
 
 Step one was done based on <a href="https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3">this</a> pretrained model. We downloaded weights and trained it on each frame. Processing of one frame took for 10 iterations on my local machine about 10-15 min and looked like this:  
 
