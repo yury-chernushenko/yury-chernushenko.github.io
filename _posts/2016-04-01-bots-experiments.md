@@ -41,12 +41,15 @@ Bots are really cool for some things. This case was for the small city municipal
 * Contact with an concierge (integration with Zendesk ticketing)  
 
 <div class="text-col text-col-1" style="text-align:left;">
+    Telegram user's interface:
     <img src="/assets/2016-04-01-interface.jpg">  
 
     Back end was done on Python(Flask) and information was stored at Facebook Parse. Interface was buttons based.
 </div>
 
 <div class="text-col text-col-2" style="text-align:left;">
+    Operator's web interface :
+
     <img src="/assets/2016-04-01-operator.jpg">    
 
     Also operator on in the back of this concierge service had and interface to change standard replies and broadcast messages to subscribers.
