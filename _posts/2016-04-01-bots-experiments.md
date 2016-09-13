@@ -41,23 +41,16 @@ Bots are really cool for some things. This case was for the small city municipal
 * Contact with an concierge (integration with Zendesk ticketing)  
 
 <div class="text-col text-col-1">
-  <div style="text-align:left;"><img src="/assets/2016-04-01-interface.jpg">  </div>
+  <div style="text-align:left;">
+    Back end was done on Python(Flask) and information was stored at Facebook Parse. Interface was buttons based:
+    <img src="/assets/2016-04-01-interface.jpg">  
+  </div>
 </div>
 
 <div class="text-col text-col-2">
-  Back end was done on Python(Flask) and information was stored at Facebook Parse. Interface was buttons based:  
-</div>
-
-<p>
-</p>
-
-<div class="text-full-width">
-  <div class="text-col text-col-1">
-    <div style="text-align:right;">Also operator on in the back of this concierge service had and interface to change standard replies and broadcast messages to subscribers:</div>
-  </div>
-
-  <div class="text-col text-col-2">
-    <img src="/assets/2016-04-01-operator.jpg">  
+  <div style="text-align:left;">
+    Also operator on in the back of this concierge service had and interface to change standard replies and broadcast messages to subscribers:
+    <img src="/assets/2016-04-01-operator.jpg">    
   </div>
 </div>
 
