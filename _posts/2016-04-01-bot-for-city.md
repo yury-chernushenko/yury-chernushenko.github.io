@@ -44,7 +44,7 @@ Bots are really cool for some things. This case was for the small city municipal
     Telegram user's interface:
     <img src="/assets/2016-04-01-interface.jpg">  
 
-    <p>Back end was done on Python(Flask) and information was stored at Facebook Parse. Interface was buttons based.</p>
+    <p>Back end was done on Python (Flask) and information was stored at Facebook Parse. Interface was buttons based.</p>
 </div>
 
 <div class="text-col text-col-2" style="text-align:left;">
