@@ -6,6 +6,6 @@ permalink: /about/
 
 I am Software Engineer. I love building things.
 
-[My CV]({{ site.url }}/assets/CV-Y.Chernushenko.pdf)
+My CV is [here]({{ site.url }}/assets/CV-Y.Chernushenko.pdf).
 
 Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
