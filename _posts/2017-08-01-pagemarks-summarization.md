@@ -34,13 +34,13 @@ categories: software
 <noscript><div><img src="https://mc.yandex.ru/watch/39542345" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
+<div class="text-full-width">
+    This project is focused on producing extractive summarization for the web pages. This work is inspired by Fast Forward Labs <a target="_blank" href="http://blog.fastforwardlabs.com/2016/04/11/new-tools-to-summarize-text.html">article</a> and one of the <a target="_blank" href="http://micha.codes/2017-qcon-deeplearning/#1">workshops</a> they gave.
 
+    Summarization is a hard problem, but use cases could be very helpful in everyday life.
 
-This project is focused on producing extractive summarization for the web pages. This work is inspired by Fast Forward Labs <a target="_blank" href="http://blog.fastforwardlabs.com/2016/04/11/new-tools-to-summarize-text.html">article</a> and one of the <a target="_blank" href="http://micha.codes/2017-qcon-deeplearning/#1">workshops</a> they gave.
-
-Summarization is a hard problem, but use cases could be very helpful in everyday life.
-
-<iframe src="https://www.youtube.com/embed/-GHniIbwOvw" frameborder="0" allowfullscreen class="video"></iframe>
+    <iframe src="https://www.youtube.com/embed/-GHniIbwOvw" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 <br>
 
