@@ -34,7 +34,7 @@ categories: software
 <noscript><div><img src="https://mc.yandex.ru/watch/39542345" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
-This project is focused on producing extractive summarization for the web pages.  
+This project is focused on producing extractive summarization for the web pages. This work is inspired by Fast Forward Labs <a target="_blank" href="http://blog.fastforwardlabs.com/2016/04/11/new-tools-to-summarize-text.html">article</a> and one of the <a target="_blank" href="http://micha.codes/2017-qcon-deeplearning/#1">workshops</a> they gave.
 
 <br>
 
@@ -48,7 +48,7 @@ This project is focused on producing extractive summarization for the web pages.
   <b>Approach</b>:
 
   <ol>
-    <li> Train the model on curated dataset of summaries </li>
+    <li> Train the model on curated dataset of summaries (I used <a target="_blank" href="http://thebrowser.com">this one</a>) </li>
     <li> Scrape the page </li>
     <li> Find the most important sentences in the article (based on the model) </li>
   </ol>
