@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pagemarks - text summarization"
-date:   2016-08-01 14:19:20 +0200
+date:   2017-08-01 14:19:20 +0200
 categories: software
 ---
 
