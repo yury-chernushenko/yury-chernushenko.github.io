@@ -39,7 +39,7 @@ categories: software
     <br>
     <p>Summarization is a hard problem, but use cases could be very helpful in everyday life.</p>
     <br>
-    <p align="center"><iframe width="700" src="https://www.youtube.com/embed/-GHniIbwOvw" frameborder="0" allowfullscreen></iframe></p>
+    <p align="center"><iframe height="525" src="https://www.youtube.com/embed/-GHniIbwOvw" frameborder="0" allowfullscreen></iframe></p>
 </div>
 
 <br>
