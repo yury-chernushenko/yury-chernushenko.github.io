@@ -53,11 +53,9 @@ This project is focused on producing extractive summarization for the web pages.
     <li> Encode sentences with <a target="_blank" href="https://github.com/ryankiros/skip-thoughts">Skip-Thought Vectors</a> </li>
     <li> Pick the most important sentences in the article (based on the trained model) </li>
   </ol>
-
-  
 </div>
 
-<div class="text-col">
+<div style ="text-full-width">
     Summarization is a hard problem, but use cases could be very helpful in everyday life.
 
     <iframe src="https://www.youtube.com/embed/-GHniIbwOvw" frameborder="0" allowfullscreen class="video"></iframe>  
