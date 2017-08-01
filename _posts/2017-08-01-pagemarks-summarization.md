@@ -50,7 +50,8 @@ This project is focused on producing extractive summarization for the web pages.
   <ol>
     <li> Train the model on curated dataset of summaries (I used <a target="_blank" href="http://thebrowser.com">this one</a>) </li>
     <li> Scrape the page </li>
-    <li> Find the most important sentences in the article (based on the model) </li>
+    <li> Encode sentences with <a target="_blank" href="https://github.com/ryankiros/skip-thoughts">Skip-Thought Vectors</a> </li>
+    <li> Pick the most important sentences in the article (based on the trained model) </li>
   </ol>
 
   
