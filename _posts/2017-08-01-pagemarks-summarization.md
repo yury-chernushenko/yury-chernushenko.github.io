@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Pagemarks - text summarization"
+date:   2016-08-01 14:19:20 +0200
+categories: software
+---
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter39542345 = new Ya.Metrika({
+                    id:39542345,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/39542345" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+This project is focused on producing extractive summarization for the web pages.  
+
+<br>
+
+<div class="text-col text-col-1">
+  <div style="text-align:left;"><img src="/assets/2017-08-01-1.png"></div>
+  <div style="text-align:left;"><img src="/assets/2017-08-01-2.png"></div>
+  <div style="text-align:left;"><img src="/assets/2017-08-01-3.png"></div>
+</div>
+
+<div class="text-col text-col-2">
+  <b>Approach</b>:
+
+  <ol>
+    <li> Train the model on curated dataset of summaries </li>
+    <li> Scrape the page </li>
+    <li> Find the most important sentences in the article (based on the model) </li>
+  </ol>
+
+  
+</div>
+
+Summarization is a hard problem, but use cases could be very helpful in everyday life.
+
+<iframe src="https://www.youtube.com/embed/-GHniIbwOvw" frameborder="0" allowfullscreen class="video"></iframe>  
