@@ -56,6 +56,8 @@ This project is focused on producing extractive summarization for the web pages.
   
 </div>
 
+<br>
+
 Summarization is a hard problem, but use cases could be very helpful in everyday life.
 
 <iframe src="https://www.youtube.com/embed/-GHniIbwOvw" frameborder="0" allowfullscreen class="video"></iframe>  
