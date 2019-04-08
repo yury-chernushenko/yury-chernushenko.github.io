@@ -37,4 +37,4 @@ categories: software
 <div class="text-full-width">
     <p>The task was to create chart dashboard without any frameworks.</p>
 </div>
-<p align="center"><iframe width="700" height="525" src="https://youtu.be/TXOk7XJ9rw8" frameborder="0" allowfullscreen></iframe></p>
+<p align="center"><iframe width="700" height="525" src="https://www.youtube.com/embed/TXOk7XJ9rw8"" frameborder="0" allowfullscreen></iframe></p>
