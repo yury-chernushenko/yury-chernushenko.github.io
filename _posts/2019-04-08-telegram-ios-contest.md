@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Telegram iOS contest 2019"
-date:   2017-04-08 19:19:20 +0200
+date:   2019-04-08 19:19:20 +0200
 categories: software
 ---
 
