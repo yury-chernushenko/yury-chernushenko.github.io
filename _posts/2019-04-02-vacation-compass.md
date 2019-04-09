@@ -35,7 +35,7 @@ categories: software
 <!-- /Yandex.Metrika counter -->
 
 <div class="text-full-width">
-    <p>Idea is to show possible vacation destination based on the temperature data of previous years. Maps were generated based on the <a href="http://www.worldclim.org/">WorldClim</a> dataset using <a href="https://code.earthengine.google.com/">EarthEngine</a>.</p>
+    <p>Idea is to show possible vacation destinations based on the temperature data from previous years. Maps were generated based on the <a href="http://www.worldclim.org/">WorldClim</a> dataset using <a href="https://code.earthengine.google.com/">EarthEngine</a>. </p>
 </div>
 
 
